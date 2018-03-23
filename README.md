@@ -1,1 +1,1 @@
-# moriah-proxy
+# kirk-proxy
